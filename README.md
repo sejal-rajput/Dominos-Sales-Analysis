@@ -53,8 +53,8 @@ The dataset includes the following key columns:
 ---
 
 ## 🚀 Future Enhancements
-Adding predictive analytics to forecast future sales.
-Integrating customer feedback analysis to understand preferences.
+Adding predictive analytics to forecast future sales.<br>
+Integrating customer feedback analysis to understand preferences.<br>
 Automating data refresh for real-time insights.
 
 ---
@@ -64,6 +64,6 @@ This dashboard is created solely for learning and visualization purposes. The da
 
 ---
 
-Feel free to fork this repo and contribute! 🚀
-💬 For any queries, reach out to me on LinkedIn.
+Feel free to fork this repo and contribute! 🚀<br>
+💬 For any queries, reach out to me on LinkedIn.<br>
 https://www.linkedin.com/in/sejal-rajput/
