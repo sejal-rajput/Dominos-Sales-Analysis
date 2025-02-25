@@ -45,16 +45,24 @@ The dataset includes the following key columns:
 3. Load the .pbix File (Dominos_Sales_Analysis.pbix)
 4. Explore & Interact with the filters and visualizations
 
-📸 Screenshot of the Dashboard
+---
+
+## 📸 Screenshot of the Dashboard
 ![Domino's Sales Dashboard](dominos_dashboard.png)
 
-🚀 Future Enhancements
+---
+
+## 🚀 Future Enhancements
 Adding predictive analytics to forecast future sales.
 Integrating customer feedback analysis to understand preferences.
 Automating data refresh for real-time insights.
 
-📢 Disclaimer
+---
+
+## 📢 Disclaimer
 This dashboard is created solely for learning and visualization purposes. The data used is for demonstration and does not reflect actual Domino's sales figures.
+
+---
 
 Feel free to fork this repo and contribute! 🚀
 💬 For any queries, reach out to me on LinkedIn.
